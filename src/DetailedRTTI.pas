@@ -2,7 +2,7 @@ unit DetailedRTTI;
 
   // Some functions for playing with rich RTTI in objects
   // Free to use in anyway, at your own risk.
-  // David Glassborow [http://davidglassborow.blogspot.com/2006/05/class-rtti.html]
+  // David Glassborow [https://blogs.conceptfirst.com/2006/05/22/Class-RTTI.html]
 
 interface
 
